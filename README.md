@@ -11,4 +11,4 @@ Dataset consists of video lecture to be split into separate frames.
 
 We plan to use the following CV methods:
 * [Canny edge detection algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf);
-* [Harris-Laplacian keypoints detection algorithm](https://hal.inria.fr/inria-00548276/document);
+* [Harris-Laplacian keypoints detection algorithm](https://hal.inria.fr/inria-00548276/document).

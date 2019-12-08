@@ -7,7 +7,7 @@ The expected value of CV in our project is the following:
 * extraction and projective transformation of the slide;
 * matching of slides keypoints for two consequetive frames.
 
-Dataset consists of video lecture to be split into separate frames.
+Dataset consists of video lecture with supplementary presentation slides (e.g. [How to Land the Space Shuttle... from Space](https://www.youtube.com/watch?v=Jb4prVsXkZU&feature=emb_logo)).
 
 We plan to use the following CV methods:
 * [Canny edge detection algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3300&rep=rep1&type=pdf);

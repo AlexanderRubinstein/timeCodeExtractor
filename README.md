@@ -3,7 +3,7 @@
 Presentations are often used as supplementary materials in video lectures.
 Our goal is to extract timecodes of each slide and provide those slides.
 
-The expected value of CV in our project is the following:
+The expected application of CV in our project is the following:
 * presentation slide detection on the video frame;
 * extraction and projective transformation of the slide;
 * matching of slides keypoints for two consequetive frames.
